@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("klkmundo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+405b3433d9d50e83f6307369b03ba15552c2db2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+215527ce2ac8e58366289a9eeb0c07e43a4eb3f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("klkmundo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("klkmundo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

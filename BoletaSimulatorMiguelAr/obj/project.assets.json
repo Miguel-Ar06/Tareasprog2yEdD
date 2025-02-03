@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\klkmundo\\klkmundo.csproj",
+      "projectUniqueName": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\BoletaSimulatorMiguelAr\\klkmundo.csproj",
       "projectName": "klkmundo",
-      "projectPath": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\klkmundo\\klkmundo.csproj",
+      "projectPath": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\BoletaSimulatorMiguelAr\\klkmundo.csproj",
       "packagesPath": "C:\\Users\\nombr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\klkmundo\\obj\\",
+      "outputPath": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\BoletaSimulatorMiguelAr\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nombr\\AppData\\Roaming\\NuGet\\NuGet.Config"
