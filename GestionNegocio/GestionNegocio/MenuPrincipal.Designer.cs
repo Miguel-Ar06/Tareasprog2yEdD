@@ -30,8 +30,8 @@ namespace GestionNegocio
         /// </summary>
         private void InitializeComponent()
         {
-            DataGridViewCellStyle dataGridViewCellStyle3 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle4 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle1 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle2 = new DataGridViewCellStyle();
             nombreNegocio = new Label();
             controlPestanas = new TabControl();
             pestanaCobros = new TabPage();
@@ -70,7 +70,6 @@ namespace GestionNegocio
             // 
             // nombreNegocio
             // 
-            nombreNegocio.Anchor = AnchorStyles.Top;
             nombreNegocio.AutoSize = true;
             nombreNegocio.Font = new Font("Segoe UI Semibold", 24F, FontStyle.Bold, GraphicsUnit.Point, 0);
             nombreNegocio.Location = new Point(12, 21);
@@ -81,7 +80,7 @@ namespace GestionNegocio
             // 
             // controlPestanas
             // 
-            controlPestanas.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            controlPestanas.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             controlPestanas.Controls.Add(pestanaCobros);
             controlPestanas.Controls.Add(pestanaInventario);
             controlPestanas.Controls.Add(pestanaFacturas);
@@ -117,6 +116,7 @@ namespace GestionNegocio
             // 
             // botonEliminarMovimiento
             // 
+            botonEliminarMovimiento.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
             botonEliminarMovimiento.BackColor = Color.LightCoral;
             botonEliminarMovimiento.Font = new Font("Segoe UI", 12F);
             botonEliminarMovimiento.Location = new Point(850, 411);
@@ -129,6 +129,7 @@ namespace GestionNegocio
             // 
             // montoTotal
             // 
+            montoTotal.Anchor = AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             montoTotal.AutoSize = true;
             montoTotal.Font = new Font("Segoe UI Semibold", 18F, FontStyle.Bold);
             montoTotal.Location = new Point(532, 405);
@@ -139,6 +140,7 @@ namespace GestionNegocio
             // 
             // textoTotal
             // 
+            textoTotal.Anchor = AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             textoTotal.AutoSize = true;
             textoTotal.Font = new Font("Segoe UI Semibold", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
             textoTotal.Location = new Point(434, 405);
@@ -149,15 +151,17 @@ namespace GestionNegocio
             // 
             // tablaDeMovimientos
             // 
+            tablaDeMovimientos.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            tablaDeMovimientos.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             tablaDeMovimientos.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle3.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle3.BackColor = SystemColors.Window;
-            dataGridViewCellStyle3.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            dataGridViewCellStyle3.ForeColor = SystemColors.ActiveCaptionText;
-            dataGridViewCellStyle3.SelectionBackColor = SystemColors.Highlight;
-            dataGridViewCellStyle3.SelectionForeColor = SystemColors.HighlightText;
-            dataGridViewCellStyle3.WrapMode = DataGridViewTriState.False;
-            tablaDeMovimientos.DefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle1.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = SystemColors.Window;
+            dataGridViewCellStyle1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            dataGridViewCellStyle1.ForeColor = SystemColors.ActiveCaptionText;
+            dataGridViewCellStyle1.SelectionBackColor = SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = DataGridViewTriState.False;
+            tablaDeMovimientos.DefaultCellStyle = dataGridViewCellStyle1;
             tablaDeMovimientos.Location = new Point(434, 86);
             tablaDeMovimientos.Name = "tablaDeMovimientos";
             tablaDeMovimientos.RowHeadersWidth = 51;
@@ -259,6 +263,7 @@ namespace GestionNegocio
             // 
             // botonEliminarProducto
             // 
+            botonEliminarProducto.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
             botonEliminarProducto.BackColor = Color.LightCoral;
             botonEliminarProducto.Font = new Font("Segoe UI", 12F);
             botonEliminarProducto.Location = new Point(946, 501);
@@ -271,16 +276,17 @@ namespace GestionNegocio
             // 
             // tablaInventario
             // 
+            tablaInventario.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             tablaInventario.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             tablaInventario.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle4.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle4.BackColor = SystemColors.Window;
-            dataGridViewCellStyle4.Font = new Font("Segoe UI", 12F);
-            dataGridViewCellStyle4.ForeColor = SystemColors.ActiveCaptionText;
-            dataGridViewCellStyle4.SelectionBackColor = SystemColors.Highlight;
-            dataGridViewCellStyle4.SelectionForeColor = SystemColors.HighlightText;
-            dataGridViewCellStyle4.WrapMode = DataGridViewTriState.False;
-            tablaInventario.DefaultCellStyle = dataGridViewCellStyle4;
+            dataGridViewCellStyle2.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = SystemColors.Window;
+            dataGridViewCellStyle2.Font = new Font("Segoe UI", 12F);
+            dataGridViewCellStyle2.ForeColor = SystemColors.ActiveCaptionText;
+            dataGridViewCellStyle2.SelectionBackColor = SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = DataGridViewTriState.False;
+            tablaInventario.DefaultCellStyle = dataGridViewCellStyle2;
             tablaInventario.Location = new Point(20, 175);
             tablaInventario.Name = "tablaInventario";
             tablaInventario.RowHeadersWidth = 51;
