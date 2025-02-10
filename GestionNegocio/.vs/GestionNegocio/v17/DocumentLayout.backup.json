@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|c:\\users\\nombr\\onedrive\\documentos\\code\\tarea\\tareasprog2yedd\\gestionnegocio\\gestionnegocio\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|solutionrelative:gestionnegocio\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|c:\\users\\nombr\\onedrive\\documentos\\code\\tarea\\tareasprog2yedd\\gestionnegocio\\gestionnegocio\\menuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|solutionrelative:gestionnegocio\\menuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|c:\\users\\nombr\\onedrive\\documentos\\code\\tarea\\tareasprog2yedd\\gestionnegocio\\gestionnegocio\\pantalladebienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|solutionrelative:gestionnegocio\\pantalladebienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|c:\\users\\nombr\\onedrive\\documentos\\code\\tarea\\tareasprog2yedd\\gestionnegocio\\gestionnegocio\\pantalladebienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|c:\\users\\nombr\\onedrive\\documentos\\code\\tarea\\tareasprog2yedd\\gestionnegocio\\gestionnegocio\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|solutionrelative:gestionnegocio\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\gestionnegocio\\pantalladebienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|solutionrelative:gestionnegocio\\pantalladebienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|c:\\users\\nombr\\onedrive\\documentos\\code\\tarea\\tareasprog2yedd\\gestionnegocio\\gestionnegocio\\pantalladebienvenida.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|solutionrelative:gestionnegocio\\pantalladebienvenida.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|c:\\users\\nombr\\onedrive\\documentos\\code\\tarea\\tareasprog2yedd\\gestionnegocio\\gestionnegocio\\mainclasses\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|solutionrelative:gestionnegocio\\mainclasses\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|c:\\users\\nombr\\onedrive\\documentos\\code\\tarea\\tareasprog2yedd\\gestionnegocio\\gestionnegocio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|solutionrelative:gestionnegocio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|c:\\users\\nombr\\onedrive\\documentos\\code\\tarea\\tareasprog2yedd\\gestionnegocio\\gestionnegocio\\mainclasses\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|solutionrelative:gestionnegocio\\mainclasses\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|c:\\users\\nombr\\onedrive\\documentos\\code\\tarea\\tareasprog2yedd\\gestionnegocio\\gestionnegocio\\mainclasses\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|solutionrelative:gestionnegocio\\mainclasses\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|c:\\users\\nombr\\onedrive\\documentos\\code\\tarea\\tareasprog2yedd\\gestionnegocio\\gestionnegocio\\mainclasses\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|solutionrelative:gestionnegocio\\mainclasses\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|c:\\users\\nombr\\onedrive\\documentos\\code\\tarea\\tareasprog2yedd\\gestionnegocio\\gestionnegocio\\uiclasses\\paletadecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|solutionrelative:gestionnegocio\\uiclasses\\paletadecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,40 +66,156 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PantallaDeBienvenida.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\PantallaDeBienvenida.cs",
-              "RelativeDocumentMoniker": "GestionNegocio\\PantallaDeBienvenida.cs",
-              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\PantallaDeBienvenida.cs [Design]",
-              "RelativeToolTip": "GestionNegocio\\PantallaDeBienvenida.cs [Design]",
+              "DocumentIndex": 3,
+              "Title": "MenuPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "GestionNegocio\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\MenuPrincipal.cs [Design]*",
+              "RelativeToolTip": "GestionNegocio\\MenuPrincipal.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T17:56:38.544Z",
+              "WhenOpened": "2025-02-10T02:57:53.46Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PantallaDeBienvenida.cs",
               "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\PantallaDeBienvenida.cs",
               "RelativeDocumentMoniker": "GestionNegocio\\PantallaDeBienvenida.cs",
-              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\PantallaDeBienvenida.cs",
-              "RelativeToolTip": "GestionNegocio\\PantallaDeBienvenida.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\PantallaDeBienvenida.cs*",
+              "RelativeToolTip": "GestionNegocio\\PantallaDeBienvenida.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T16:20:37.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "MenuPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\MenuPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "GestionNegocio\\MenuPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\MenuPrincipal.Designer.cs*",
+              "RelativeToolTip": "GestionNegocio\\MenuPrincipal.Designer.cs*",
+              "ViewState": "AgIAAJwAAAAAAAAAAAD4v7AAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:16:33.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "GestionNegocio\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\MenuPrincipal.cs*",
+              "RelativeToolTip": "GestionNegocio\\MenuPrincipal.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:16:01.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PantallaDeBienvenida.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\PantallaDeBienvenida.cs",
+              "RelativeDocumentMoniker": "GestionNegocio\\PantallaDeBienvenida.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\PantallaDeBienvenida.cs [Design]*",
+              "RelativeToolTip": "GestionNegocio\\PantallaDeBienvenida.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:56:38.544Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaletaDeColor.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\UIclasses\\PaletaDeColor.cs",
+              "RelativeDocumentMoniker": "GestionNegocio\\UIclasses\\PaletaDeColor.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\UIclasses\\PaletaDeColor.cs",
+              "RelativeToolTip": "GestionNegocio\\UIclasses\\PaletaDeColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:40:11.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PantallaDeBienvenida.Designer.cs",
               "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\PantallaDeBienvenida.Designer.cs",
               "RelativeDocumentMoniker": "GestionNegocio\\PantallaDeBienvenida.Designer.cs",
-              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\PantallaDeBienvenida.Designer.cs",
-              "RelativeToolTip": "GestionNegocio\\PantallaDeBienvenida.Designer.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAA3wJEAAAAXAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\PantallaDeBienvenida.Designer.cs*",
+              "RelativeToolTip": "GestionNegocio\\PantallaDeBienvenida.Designer.cs*",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAnwK0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T16:10:49.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movimiento.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\MainClasses\\Movimiento.cs",
+              "RelativeDocumentMoniker": "GestionNegocio\\MainClasses\\Movimiento.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\MainClasses\\Movimiento.cs",
+              "RelativeToolTip": "GestionNegocio\\MainClasses\\Movimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T06:51:53.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\MainClasses\\Producto.cs",
+              "RelativeDocumentMoniker": "GestionNegocio\\MainClasses\\Producto.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\MainClasses\\Producto.cs",
+              "RelativeToolTip": "GestionNegocio\\MainClasses\\Producto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:11:35.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Negocio.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\MainClasses\\Negocio.cs",
+              "RelativeDocumentMoniker": "GestionNegocio\\MainClasses\\Negocio.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\MainClasses\\Negocio.cs",
+              "RelativeToolTip": "GestionNegocio\\MainClasses\\Negocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:10:19.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\Program.cs",
+              "RelativeDocumentMoniker": "GestionNegocio\\Program.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\Program.cs",
+              "RelativeToolTip": "GestionNegocio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:12:13.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\MainClasses\\Factura.cs",
+              "RelativeDocumentMoniker": "GestionNegocio\\MainClasses\\Factura.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\MainClasses\\Factura.cs",
+              "RelativeToolTip": "GestionNegocio\\MainClasses\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:12:08.839Z",
               "EditorCaption": ""
             }
           ]

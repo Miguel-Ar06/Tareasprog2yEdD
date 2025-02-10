@@ -1,3 +1,5 @@
+using GestionNegocio.MainClasses;
+
 namespace GestionNegocio
 {
     internal static class Program

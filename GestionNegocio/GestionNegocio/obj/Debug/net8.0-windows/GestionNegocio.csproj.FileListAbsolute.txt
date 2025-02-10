@@ -16,3 +16,4 @@ C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\GestionNegocio\Ges
 C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\GestionNegocio\GestionNegocio\obj\Debug\net8.0-windows\GestionNegocio.pdb
 C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\GestionNegocio\GestionNegocio\obj\Debug\net8.0-windows\GestionNegocio.genruntimeconfig.cache
 C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\GestionNegocio\GestionNegocio\obj\Debug\net8.0-windows\ref\GestionNegocio.dll
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\GestionNegocio\GestionNegocio\obj\Debug\net8.0-windows\GestionNegocio.MenuPrincipal.resources

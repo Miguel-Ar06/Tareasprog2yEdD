@@ -37,10 +37,14 @@ namespace GestionNegocio
             nombreNegocio = new TextBox();
             selectorColor = new ComboBox();
             botonBienvenida = new Button();
+            iconoNegocioMaterial = new PictureBox();
+            label1 = new Label();
+            ((System.ComponentModel.ISupportInitialize)iconoNegocioMaterial).BeginInit();
             SuspendLayout();
             // 
             // textoBienvenida
             // 
+            textoBienvenida.Anchor = AnchorStyles.Top;
             textoBienvenida.AutoSize = true;
             textoBienvenida.Font = new Font("SchulVokalDotless", 23.9999981F, FontStyle.Bold, GraphicsUnit.Point, 0);
             textoBienvenida.ForeColor = Color.FromArgb(64, 64, 64);
@@ -57,10 +61,11 @@ namespace GestionNegocio
             imageList1.ColorDepth = ColorDepth.Depth32Bit;
             imageList1.ImageStream = (ImageListStreamer)resources.GetObject("imageList1.ImageStream");
             imageList1.TransparentColor = Color.Transparent;
-            imageList1.Images.SetKeyName(0, "local_mall_24dp_434343_FILL0_wght400_GRAD0_opsz24.png");
+            imageList1.Images.SetKeyName(0, "store_90dp_434343_FILL0_wght400_GRAD0_opsz48.png");
             // 
             // subText1
             // 
+            subText1.Anchor = AnchorStyles.Top;
             subText1.AutoSize = true;
             subText1.Font = new Font("Segoe UI Semibold", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             subText1.ForeColor = Color.FromArgb(64, 64, 64);
@@ -72,6 +77,7 @@ namespace GestionNegocio
             // 
             // nombreNegocio
             // 
+            nombreNegocio.Anchor = AnchorStyles.Top;
             nombreNegocio.BorderStyle = BorderStyle.FixedSingle;
             nombreNegocio.Location = new Point(441, 352);
             nombreNegocio.Name = "nombreNegocio";
@@ -81,6 +87,7 @@ namespace GestionNegocio
             // 
             // selectorColor
             // 
+            selectorColor.Anchor = AnchorStyles.Top;
             selectorColor.ForeColor = Color.DimGray;
             selectorColor.FormattingEnabled = true;
             selectorColor.Items.AddRange(new object[] { "Azul", "Verde", "Amarillo", "Naranja", "Rojo", "Violeta", "Negro", "Gris" });
@@ -93,6 +100,7 @@ namespace GestionNegocio
             // 
             // botonBienvenida
             // 
+            botonBienvenida.Anchor = AnchorStyles.Top;
             botonBienvenida.BackColor = SystemColors.ControlLightLight;
             botonBienvenida.ForeColor = SystemColors.ActiveCaptionText;
             botonBienvenida.Location = new Point(503, 509);
@@ -101,12 +109,36 @@ namespace GestionNegocio
             botonBienvenida.TabIndex = 4;
             botonBienvenida.Text = "Aceptar";
             botonBienvenida.UseVisualStyleBackColor = false;
+            botonBienvenida.Click += botonBienvenida_Click;
+            // 
+            // iconoNegocioMaterial
+            // 
+            iconoNegocioMaterial.Anchor = AnchorStyles.Top;
+            iconoNegocioMaterial.Image = Properties.Resources.store_20dp_434343_FILL0_wght400_GRAD0_opsz20;
+            iconoNegocioMaterial.Location = new Point(527, 100);
+            iconoNegocioMaterial.Name = "iconoNegocioMaterial";
+            iconoNegocioMaterial.Size = new Size(80, 80);
+            iconoNegocioMaterial.SizeMode = PictureBoxSizeMode.AutoSize;
+            iconoNegocioMaterial.TabIndex = 5;
+            iconoNegocioMaterial.TabStop = false;
+            // 
+            // label1
+            // 
+            label1.Anchor = AnchorStyles.Top;
+            label1.AutoSize = true;
+            label1.Location = new Point(24, 675);
+            label1.Name = "label1";
+            label1.Size = new Size(225, 20);
+            label1.TabIndex = 6;
+            label1.Text = "Ver. Beta 0.0.1. Miguel Arismendi";
             // 
             // PantallaDeBienvenida
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1137, 719);
+            Controls.Add(label1);
+            Controls.Add(iconoNegocioMaterial);
             Controls.Add(botonBienvenida);
             Controls.Add(selectorColor);
             Controls.Add(nombreNegocio);
@@ -114,6 +146,7 @@ namespace GestionNegocio
             Controls.Add(textoBienvenida);
             Name = "PantallaDeBienvenida";
             Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)iconoNegocioMaterial).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -126,12 +159,20 @@ namespace GestionNegocio
         private ComboBox selectorColor;
         private Button botonBienvenida;
         private ImageList imageList1;
+        private PictureBox iconoNegocioMaterial;
 
         // getters
 
         public string GetItemTextoSelectorColor()
         {
-            return selectorColor.SelectedItem.ToString();
+            if (selectorColor.SelectedItem != null)
+            {
+                return selectorColor.SelectedItem.ToString();
+            }
+            else
+            {
+                return "";
+            }
         }
 
         // setters
@@ -146,7 +187,11 @@ namespace GestionNegocio
             textoBienvenida.ForeColor = colorTexto;
         }
 
+        public string GetNombreNegocio()
+        {
+            return nombreNegocio.Text;
+        }
 
-
+        private Label label1;
     }
 }
