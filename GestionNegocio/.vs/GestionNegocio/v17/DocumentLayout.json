@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\gestionnegocio\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|c:\\users\\nombr\\onedrive\\documentos\\code\\tarea\\tareasprog2yedd\\gestionnegocio\\gestionnegocio\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|solutionrelative:gestionnegocio\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|c:\\users\\nombr\\onedrive\\documentos\\code\\tarea\\tareasprog2yedd\\gestionnegocio\\gestionnegocio\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|solutionrelative:gestionnegocio\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|c:\\users\\nombr\\onedrive\\documentos\\code\\tarea\\tareasprog2yedd\\gestionnegocio\\gestionnegocio\\pantalladebienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|solutionrelative:gestionnegocio\\pantalladebienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|c:\\users\\nombr\\onedrive\\documentos\\code\\tarea\\tareasprog2yedd\\gestionnegocio\\gestionnegocio\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|solutionrelative:gestionnegocio\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|c:\\users\\nombr\\onedrive\\documentos\\code\\tarea\\tareasprog2yedd\\gestionnegocio\\gestionnegocio\\menuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MenuPrincipal.cs [Design]",
               "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\MenuPrincipal.cs",
               "RelativeDocumentMoniker": "GestionNegocio\\MenuPrincipal.cs",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PantallaDeBienvenida.cs",
               "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\PantallaDeBienvenida.cs",
               "RelativeDocumentMoniker": "GestionNegocio\\PantallaDeBienvenida.cs",
@@ -104,28 +104,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MenuPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\MenuPrincipal.cs",
               "RelativeDocumentMoniker": "GestionNegocio\\MenuPrincipal.cs",
               "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\MenuPrincipal.cs",
               "RelativeToolTip": "GestionNegocio\\MenuPrincipal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T02:16:01.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PantallaDeBienvenida.cs [Design]",
               "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\PantallaDeBienvenida.cs",
               "RelativeDocumentMoniker": "GestionNegocio\\PantallaDeBienvenida.cs",
               "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\GestionNegocio\\PantallaDeBienvenida.cs [Design]",
               "RelativeToolTip": "GestionNegocio\\PantallaDeBienvenida.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T17:56:38.544Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-07T17:56:38.544Z"
             },
             {
               "$type": "Document",
@@ -149,8 +148,7 @@
               "RelativeToolTip": "GestionNegocio\\PantallaDeBienvenida.Designer.cs",
               "ViewState": "AgIAAJsAAAAAAAAAAAAnwK0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T16:10:49.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T16:10:49.45Z"
             },
             {
               "$type": "Document",

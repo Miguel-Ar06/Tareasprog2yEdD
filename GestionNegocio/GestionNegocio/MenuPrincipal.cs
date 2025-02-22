@@ -50,13 +50,14 @@ namespace GestionNegocio
             // obtener las datagridviews y asignarles las listas correspondientes
 
             _tablaDeMovimientos = GetTablaDeMovimientos();
+            _tablaDeMovimientos.ReadOnly = true;
             registroDeMovimientos.DataSource = movimientos;
             _tablaDeMovimientos.DataSource = registroDeMovimientos;
 
             _tablaInventario = GetTablaInventario();
+            _tablaInventario.ReadOnly = true;
             registroInventario.DataSource = productos;
             _tablaInventario.DataSource = registroInventario;
-
         }
 
         // pestana movimientos y cobros
