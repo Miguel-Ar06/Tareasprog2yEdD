@@ -1,7 +1,7 @@
 #pragma once
-#include<iostream>
-#include<stdlib.h>
-#include<string>
+#include <iostream>
+#include <stdlib.h>
+#include <string>
 using namespace std;
 
 namespace seleccionEquipos {

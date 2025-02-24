@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|solutionrelative:gestionnegocio\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|c:\\users\\nombr\\onedrive\\documentos\\code\\tarea\\tareasprog2yedd\\gestionnegocio\\gestionnegocio\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\Tareasprog2yEdD\\GestionNegocio\\gestionnegocio\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A5AF2136-7846-463E-8B83-8F5C2DF584AD}|GestionNegocio\\GestionNegocio.csproj|solutionrelative:gestionnegocio\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -58,8 +58,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -95,8 +99,7 @@
               "RelativeToolTip": "GestionNegocio\\MenuPrincipal.Designer.cs",
               "ViewState": "AgIAAJwAAAAAAAAAAAD4v7AAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T02:16:33.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T02:16:33.534Z"
             },
             {
               "$type": "Document",
