@@ -49,6 +49,7 @@ namespace seleccionDeEquipos
 
 			if (opcion < 0 || opcion > 4)
 			{
+				limpiarConsola();
 				cout << "Opcion invalida" << endl;
 			}
 

@@ -1,0 +1,38 @@
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\CorsaSimulator.exe
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\CorsaSimulator.deps.json
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\CorsaSimulator.runtimeconfig.json
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\CorsaSimulator.dll
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\CorsaSimulator.pdb
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\obj\Debug\net8.0-windows\CorsaSimulator.ventanaPrincipal.resources
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\obj\Debug\net8.0-windows\CorsaSimulator.Properties.Resources.resources
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\obj\Debug\net8.0-windows\CorsaSimulator.csproj.GenerateResource.cache
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\obj\Debug\net8.0-windows\CorsaSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\obj\Debug\net8.0-windows\CorsaSimulator.AssemblyInfoInputs.cache
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\obj\Debug\net8.0-windows\CorsaSimulator.AssemblyInfo.cs
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\obj\Debug\net8.0-windows\CorsaSimulator.csproj.CoreCompileInputs.cache
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\obj\Debug\net8.0-windows\CorsaSimulator.sourcelink.json
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\obj\Debug\net8.0-windows\CorsaSimulator.dll
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\obj\Debug\net8.0-windows\refint\CorsaSimulator.dll
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\obj\Debug\net8.0-windows\CorsaSimulator.pdb
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\obj\Debug\net8.0-windows\CorsaSimulator.genruntimeconfig.cache
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\obj\Debug\net8.0-windows\ref\CorsaSimulator.dll
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\res\audio\carroEncendiendo.wav
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\res\audio\carroEstatico.wav
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\res\audio\sonidoBotonLuces.wav
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\obj\Debug\net8.0-windows\CorsaSimulator.csproj.AssemblyReference.cache
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\obj\Debug\net8.0-windows\CorsaSim.6FB7400B.Up2Date
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\res\audio\lucesDeCruce.wav
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\res\audio\carroAcelerando.wav
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\res\audio\carroFrenando.wav
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\res\audio\carroRetrocediendo.wav
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\res\audio\EL ALFA - gogo dance.wav
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\res\audio\EL ALFA - sientate en ese deo.wav
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\res\audio\Plan B - Guatauba.wav
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\CorsaSimulator\CorsaSimulator\bin\Debug\net8.0-windows\res\audio\cambiandoVelocidad.wav

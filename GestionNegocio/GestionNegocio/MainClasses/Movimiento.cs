@@ -12,6 +12,9 @@ namespace GestionNegocio.MainClasses
         public decimal monto {  get; set; }
         public string descripcion { get; set; }
         public string movimiento { get; set; }
+        public string fecha { get; set; }
+        public int cedulaCliente { get; set; }
+        public string metodoDePago { get; set; }
         private bool ingreso;
 
         // constructor

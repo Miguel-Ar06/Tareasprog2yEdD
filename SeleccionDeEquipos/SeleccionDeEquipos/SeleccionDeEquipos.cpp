@@ -23,6 +23,7 @@ int main()
 		listaPersonas.insertarPersona(persona);
 	}
 
+	Menu::limpiarConsola();
 	cout << "Personas:" << endl;
 	listaPersonas.mostrarLista();
 
@@ -84,7 +85,7 @@ int main()
 					edad = personaPorEliminar->getEdad();
 					intentos++;
 
-				} while (((edad <= 20) && ((turno % 2) == 0)) || ((edad > 20) && ((turno % 2) == 1)));
+				} while ((((edad <= 20) && ((turno % 2) == 0)) || ((edad > 20) && ((turno % 2) == 1))) && intentos != listaPersonas.getTamano());
 
 				cout << "intentos (partiendo de la cabeza): " << intentos << endl;
 				cout << "Lista antes del cambio: " << endl;
@@ -113,6 +114,12 @@ int main()
 		}
 	}
 	while (opcion != 0);
+
+	Menu::limpiarConsola();
+	equipo1.limpiarLista();
+	equipo2.limpiarLista();
+	cout << "Presion enter para salir" << endl;
+	cin.get();
 
 	Menu::mostrarMensajeDespedida();
 }

@@ -1,0 +1,24 @@
+encender/apagar (boton)
+acelerar u (con carrro en primera o retro)
+frenar j
+girar h,k (cuando hay movimiento)
+luces l (o boton)
+luces de cruce (boton)
+reproducir cancion (boton)
+cambiar cancion (boton)
+croche c
+subir marcha w (con croche pisado)
+bajar marcha s (con croche pisado)
+
+------------------------------------------------------------------
+
+Nota: intente usar las teclas de flechas para el movimiento pero
+esas teclas estan eservadas para moverse por lo botones sin mouse
+por default (intente usar e.handled para sobreescribirlo y no
+funciono)
+
+Nota: hay un metodo y atributos comentados en carro.cs para ReproducirSonidoPedal();
+no los implemente del todo porque algo ocurria al sonar el pedal que el velocimetro
+no se actualizaba hasta que se soltara el pedal. 
+Probablemente algo con la iniciacion del sonido que interrumpia el contador pero
+no habia mas tiempo.

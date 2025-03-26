@@ -268,4 +268,22 @@ namespace seleccionDeEquipos
         }
     }
 
+    void ListaDobleEnlazada::limpiarLista()
+    {
+        NodoDoble* nodoActual = cabeza;
+        NodoDoble* nodoAnterior = nullptr;
+
+        while (nodoActual->getSiguiente() != nullptr)
+        {
+            delete(nodoAnterior);
+            nodoAnterior = nodoActual;
+            nodoActual = nodoActual->getSiguiente();
+
+        }
+
+        delete (nodoActual);
+
+        cout << "Lista limpiada exitosamente"  << endl;
+    }
+
 }

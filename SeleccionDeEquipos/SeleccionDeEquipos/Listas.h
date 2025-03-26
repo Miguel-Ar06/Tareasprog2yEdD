@@ -38,6 +38,7 @@ namespace seleccionDeEquipos
             bool estaVacia();
             void mostrarLista();
             void ordenarPorEdadAsc();
+            void limpiarLista();
     };
 }
 

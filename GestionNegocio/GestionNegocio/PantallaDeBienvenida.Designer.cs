@@ -130,7 +130,7 @@ namespace GestionNegocio
             label1.Name = "label1";
             label1.Size = new Size(225, 20);
             label1.TabIndex = 6;
-            label1.Text = "Ver. Beta 0.0.1. Miguel Arismendi";
+            label1.Text = "Ver. Beta 0.0.2. Miguel Arismendi";
             // 
             // PantallaDeBienvenida
             // 

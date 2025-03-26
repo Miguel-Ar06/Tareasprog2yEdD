@@ -17,7 +17,7 @@ namespace GestionNegocio
             this.AutoScaleMode = AutoScaleMode.Dpi;
 
             // poblar diccionario con temas
-            temas.Add("Azul", new PaletaDeColor("Azul",Color.FromArgb(0, 128, 255), Color.FromArgb(0, 153, 153), Color.FromArgb(255, 255, 255)));
+            temas.Add("Azul", new PaletaDeColor("Azul", Color.FromArgb(0, 128, 255), Color.FromArgb(0, 153, 153), Color.FromArgb(255, 255, 255)));
             temas.Add("Verde", new PaletaDeColor("Verde", Color.FromArgb(0, 204, 102), Color.FromArgb(102, 204, 0), Color.FromArgb(255, 255, 255)));
             temas.Add("Amarillo", new PaletaDeColor("Amarillo", Color.FromArgb(204, 204, 0), Color.FromArgb(102, 102, 0), Color.FromArgb(255, 255, 255)));
             temas.Add("Naranja", new PaletaDeColor("Naranja", Color.FromArgb(255, 126, 0), Color.FromArgb(153, 76, 0), Color.FromArgb(255, 255, 255)));

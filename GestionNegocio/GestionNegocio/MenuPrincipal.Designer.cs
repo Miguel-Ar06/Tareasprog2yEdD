@@ -32,6 +32,7 @@ namespace GestionNegocio
         {
             DataGridViewCellStyle dataGridViewCellStyle1 = new DataGridViewCellStyle();
             DataGridViewCellStyle dataGridViewCellStyle2 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle3 = new DataGridViewCellStyle();
             nombreNegocio = new Label();
             controlPestanas = new TabControl();
             pestanaCobros = new TabPage();
@@ -59,6 +60,17 @@ namespace GestionNegocio
             label1 = new Label();
             pestanaAjustes = new TabPage();
             label2 = new Label();
+            pestanaClientes = new TabPage();
+            botonEliminarCliente = new Button();
+            tablaClientes = new DataGridView();
+            botonAgregarCliente = new Button();
+            residenciaCliente = new TextBox();
+            edadCliente = new TextBox();
+            this.cedulaCliente = new TextBox();
+            nombreCliente = new TextBox();
+            correoCliente = new TextBox();
+            botonBuscarCliente = new Button();
+            botonBuscarClientes = new Button();
             controlPestanas.SuspendLayout();
             pestanaCobros.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)tablaDeMovimientos).BeginInit();
@@ -66,6 +78,8 @@ namespace GestionNegocio
             ((System.ComponentModel.ISupportInitialize)tablaInventario).BeginInit();
             pestanaFacturas.SuspendLayout();
             pestanaAjustes.SuspendLayout();
+            pestanaClientes.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)tablaClientes).BeginInit();
             SuspendLayout();
             // 
             // nombreNegocio
@@ -83,6 +97,7 @@ namespace GestionNegocio
             controlPestanas.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             controlPestanas.Controls.Add(pestanaCobros);
             controlPestanas.Controls.Add(pestanaInventario);
+            controlPestanas.Controls.Add(pestanaClientes);
             controlPestanas.Controls.Add(pestanaFacturas);
             controlPestanas.Controls.Add(pestanaAjustes);
             controlPestanas.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
@@ -245,6 +260,7 @@ namespace GestionNegocio
             // 
             // pestanaInventario
             // 
+            pestanaInventario.Controls.Add(botonBuscarClientes);
             pestanaInventario.Controls.Add(botonEliminarProducto);
             pestanaInventario.Controls.Add(tablaInventario);
             pestanaInventario.Controls.Add(botonAgregarProducto);
@@ -295,9 +311,9 @@ namespace GestionNegocio
             // 
             // botonAgregarProducto
             // 
-            botonAgregarProducto.Location = new Point(527, 74);
+            botonAgregarProducto.Location = new Point(721, 23);
             botonAgregarProducto.Name = "botonAgregarProducto";
-            botonAgregarProducto.Size = new Size(178, 71);
+            botonAgregarProducto.Size = new Size(162, 83);
             botonAgregarProducto.TabIndex = 5;
             botonAgregarProducto.Text = "Agregar";
             botonAgregarProducto.UseVisualStyleBackColor = true;
@@ -392,6 +408,133 @@ namespace GestionNegocio
             label2.TabIndex = 1;
             label2.Text = "Proximamente";
             // 
+            // pestanaClientes
+            // 
+            pestanaClientes.Controls.Add(botonBuscarCliente);
+            pestanaClientes.Controls.Add(correoCliente);
+            pestanaClientes.Controls.Add(botonEliminarCliente);
+            pestanaClientes.Controls.Add(tablaClientes);
+            pestanaClientes.Controls.Add(botonAgregarCliente);
+            pestanaClientes.Controls.Add(residenciaCliente);
+            pestanaClientes.Controls.Add(edadCliente);
+            pestanaClientes.Controls.Add(this.cedulaCliente);
+            pestanaClientes.Controls.Add(nombreCliente);
+            pestanaClientes.Location = new Point(4, 37);
+            pestanaClientes.Name = "pestanaClientes";
+            pestanaClientes.Padding = new Padding(3);
+            pestanaClientes.Size = new Size(1106, 561);
+            pestanaClientes.TabIndex = 4;
+            pestanaClientes.Text = "Clientes";
+            pestanaClientes.UseVisualStyleBackColor = true;
+            // 
+            // botonEliminarCliente
+            // 
+            botonEliminarCliente.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
+            botonEliminarCliente.BackColor = Color.LightCoral;
+            botonEliminarCliente.Font = new Font("Segoe UI", 12F);
+            botonEliminarCliente.Location = new Point(314, 462);
+            botonEliminarCliente.Name = "botonEliminarCliente";
+            botonEliminarCliente.Size = new Size(137, 36);
+            botonEliminarCliente.TabIndex = 15;
+            botonEliminarCliente.Text = "Eliminar";
+            botonEliminarCliente.UseVisualStyleBackColor = false;
+            // 
+            // tablaClientes
+            // 
+            tablaClientes.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            tablaClientes.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            tablaClientes.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewCellStyle3.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = SystemColors.Window;
+            dataGridViewCellStyle3.Font = new Font("Segoe UI", 12F);
+            dataGridViewCellStyle3.ForeColor = SystemColors.ActiveCaptionText;
+            dataGridViewCellStyle3.SelectionBackColor = SystemColors.Highlight;
+            dataGridViewCellStyle3.SelectionForeColor = SystemColors.HighlightText;
+            dataGridViewCellStyle3.WrapMode = DataGridViewTriState.False;
+            tablaClientes.DefaultCellStyle = dataGridViewCellStyle3;
+            tablaClientes.Location = new Point(503, 55);
+            tablaClientes.Name = "tablaClientes";
+            tablaClientes.RowHeadersWidth = 51;
+            tablaClientes.Size = new Size(567, 443);
+            tablaClientes.TabIndex = 14;
+            // 
+            // botonAgregarCliente
+            // 
+            botonAgregarCliente.Location = new Point(289, 273);
+            botonAgregarCliente.Name = "botonAgregarCliente";
+            botonAgregarCliente.Size = new Size(162, 83);
+            botonAgregarCliente.TabIndex = 13;
+            botonAgregarCliente.Text = "Agregar";
+            botonAgregarCliente.UseVisualStyleBackColor = true;
+            // 
+            // residenciaCliente
+            // 
+            residenciaCliente.BorderStyle = BorderStyle.FixedSingle;
+            residenciaCliente.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            residenciaCliente.Location = new Point(26, 158);
+            residenciaCliente.Name = "residenciaCliente";
+            residenciaCliente.PlaceholderText = "Residencia";
+            residenciaCliente.Size = new Size(425, 34);
+            residenciaCliente.TabIndex = 11;
+            // 
+            // edadCliente
+            // 
+            edadCliente.BorderStyle = BorderStyle.FixedSingle;
+            edadCliente.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            edadCliente.Location = new Point(289, 105);
+            edadCliente.Name = "edadCliente";
+            edadCliente.PlaceholderText = "Edad";
+            edadCliente.Size = new Size(162, 34);
+            edadCliente.TabIndex = 10;
+            // 
+            // cedulaCliente
+            // 
+            this.cedulaCliente.BorderStyle = BorderStyle.FixedSingle;
+            this.cedulaCliente.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            this.cedulaCliente.Location = new Point(26, 105);
+            this.cedulaCliente.Name = "cedulaCliente";
+            this.cedulaCliente.PlaceholderText = "Cedula";
+            this.cedulaCliente.Size = new Size(244, 34);
+            this.cedulaCliente.TabIndex = 9;
+            // 
+            // nombreCliente
+            // 
+            nombreCliente.BorderStyle = BorderStyle.FixedSingle;
+            nombreCliente.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            nombreCliente.Location = new Point(26, 55);
+            nombreCliente.Name = "nombreCliente";
+            nombreCliente.PlaceholderText = "Nombre del cliente";
+            nombreCliente.Size = new Size(425, 34);
+            nombreCliente.TabIndex = 8;
+            // 
+            // correoCliente
+            // 
+            correoCliente.BorderStyle = BorderStyle.FixedSingle;
+            correoCliente.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            correoCliente.Location = new Point(26, 213);
+            correoCliente.Name = "correoCliente";
+            correoCliente.PlaceholderText = "Correo";
+            correoCliente.Size = new Size(425, 34);
+            correoCliente.TabIndex = 16;
+            // 
+            // botonBuscarCliente
+            // 
+            botonBuscarCliente.Location = new Point(108, 273);
+            botonBuscarCliente.Name = "botonBuscarCliente";
+            botonBuscarCliente.Size = new Size(162, 83);
+            botonBuscarCliente.TabIndex = 17;
+            botonBuscarCliente.Text = "Buscar";
+            botonBuscarCliente.UseVisualStyleBackColor = true;
+            // 
+            // botonBuscarClientes
+            // 
+            botonBuscarClientes.Location = new Point(899, 23);
+            botonBuscarClientes.Name = "botonBuscarClientes";
+            botonBuscarClientes.Size = new Size(162, 83);
+            botonBuscarClientes.TabIndex = 8;
+            botonBuscarClientes.Text = "Buscar";
+            botonBuscarClientes.UseVisualStyleBackColor = true;
+            // 
             // MenuPrincipal
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -414,6 +557,9 @@ namespace GestionNegocio
             pestanaFacturas.PerformLayout();
             pestanaAjustes.ResumeLayout(false);
             pestanaAjustes.PerformLayout();
+            pestanaClientes.ResumeLayout(false);
+            pestanaClientes.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)tablaClientes).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -575,5 +721,17 @@ namespace GestionNegocio
         private Button botonEliminarMovimiento;
         private Label label1;
         private Label label2;
+        private TabPage pestanaClientes;
+        private Button botonEliminarCliente;
+        private DataGridView tablaClientes;
+        private Button botonAgregarCliente;
+        private TextBox textBox1;
+        private TextBox residenciaCliente;
+        private TextBox edadCliente;
+        private TextBox textBox4;
+        private TextBox nombreCliente;
+        private TextBox correoCliente;
+        private Button botonBuscarCliente;
+        private Button botonBuscarClientes;
     }
 }
