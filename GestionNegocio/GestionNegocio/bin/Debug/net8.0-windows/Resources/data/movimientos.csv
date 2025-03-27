@@ -1,0 +1,94 @@
+1,Ingreso,2022-01-01,120.50,Tarjeta de credito,1,Sin descripcion
+2,Egreso,2022-01-02,80.30,Efectivo,2,Sin descripcion
+3,Ingreso,2022-01-03,150.00,Tarjeta de debito,3,Sin descripcion
+4,Egreso,2022-01-04,60.00,En linea,4,Sin descripcion
+5,Ingreso,2022-01-05,200.00,Tarjeta de credito,5,Sin descripcion
+6,Egreso,2022-01-06,90.00,Efectivo,6,Sin descripcion
+7,Ingreso,2022-01-07,130.00,Tarjeta de debito,7,Sin descripcion
+8,Egreso,2022-01-08,70.50,En linea,8,Sin descripcion
+9,Ingreso,2022-01-09,180.75,Tarjeta de credito,9,Sin descripcion
+11,Ingreso,2022-01-11,120.50,Tarjeta de credito,1,Sin descripcion
+13,Ingreso,2022-01-13,150.00,Tarjeta de debito,3,Sin descripcion
+14,Egreso,2022-01-14,60.00,En linea,4,Sin descripcion
+15,Ingreso,2022-01-15,200.00,Tarjeta de credito,5,Sin descripcion
+16,Egreso,2022-01-16,90.00,Efectivo,6,Sin descripcion
+17,Ingreso,2022-01-17,130.00,Tarjeta de debito,7,Sin descripcion
+18,Egreso,2022-01-18,70.50,En linea,8,Sin descripcion
+19,Ingreso,2022-01-19,180.75,Tarjeta de credito,9,Sin descripcion
+20,Egreso,2022-01-20,65.00,Efectivo,10,Sin descripcion
+21,Ingreso,2022-01-21,120.50,Tarjeta de credito,1,Sin descripcion
+22,Egreso,2022-01-22,80.30,Efectivo,2,Sin descripcion
+23,Ingreso,2022-01-23,150.00,Tarjeta de debito,3,Sin descripcion
+24,Egreso,2022-01-24,60.00,En linea,4,Sin descripcion
+25,Ingreso,2022-01-25,200.00,Tarjeta de credito,5,Sin descripcion
+26,Egreso,2022-01-26,90.00,Efectivo,6,Sin descripcion
+27,Ingreso,2022-01-27,130.00,Tarjeta de debito,7,Sin descripcion
+28,Egreso,2022-01-28,70.50,En linea,8,Sin descripcion
+29,Ingreso,2022-01-29,180.75,Tarjeta de credito,9,Sin descripcion
+30,Egreso,2022-01-30,65.00,Efectivo,10,Sin descripcion
+31,Ingreso,2022-02-01,120.50,Tarjeta de credito,1,Sin descripcion
+32,Egreso,2022-02-02,80.30,Efectivo,2,Sin descripcion
+33,Ingreso,2022-02-03,150.00,Tarjeta de debito,3,Sin descripcion
+34,Egreso,2022-02-04,60.00,En linea,4,Sin descripcion
+35,Ingreso,2022-02-05,200.00,Tarjeta de credito,5,Sin descripcion
+36,Egreso,2022-02-06,90.00,Efectivo,6,Sin descripcion
+37,Ingreso,2022-02-07,130.00,Tarjeta de debito,7,Sin descripcion
+38,Egreso,2022-02-08,70.50,En linea,8,Sin descripcion
+39,Ingreso,2022-02-09,180.75,Tarjeta de credito,9,Sin descripcion
+40,Egreso,2022-02-10,65.00,Efectivo,10,Sin descripcion
+41,Ingreso,2022-02-11,120.50,Tarjeta de credito,1,Sin descripcion
+43,Ingreso,2022-02-13,150.00,Tarjeta de debito,3,Sin descripcion
+44,Egreso,2022-02-14,60.00,En linea,4,Sin descripcion
+45,Ingreso,2022-02-15,200.00,Tarjeta de credito,5,Sin descripcion
+46,Egreso,2022-02-16,90.00,Efectivo,6,Sin descripcion
+47,Ingreso,2022-02-17,130.00,Tarjeta de debito,7,Sin descripcion
+48,Egreso,2022-02-18,70.50,En linea,8,Sin descripcion
+49,Ingreso,2022-02-19,180.75,Tarjeta de credito,9,Sin descripcion
+50,Egreso,2022-02-20,65.00,Efectivo,10,Sin descripcion
+51,Ingreso,2022-02-21,120.50,Tarjeta de credito,1,Sin descripcion
+52,Egreso,2022-02-22,80.30,Efectivo,2,Sin descripcion
+53,Ingreso,2022-02-23,150.00,Tarjeta de debito,3,Sin descripcion
+54,Egreso,2022-02-24,60.00,En linea,4,Sin descripcion
+55,Ingreso,2022-02-25,200.00,Tarjeta de credito,5,Sin descripcion
+56,Egreso,2022-02-26,90.00,Efectivo,6,Sin descripcion
+57,Ingreso,2022-02-27,130.00,Tarjeta de debito,7,Sin descripcion
+58,Egreso,2022-02-28,70.50,En linea,8,Sin descripcion
+59,Ingreso,2022-02-29,180.75,Tarjeta de credito,9,Sin descripcion
+60,Egreso,2022-02-30,65.00,Efectivo,10,Sin descripcion
+61,Ingreso,2022-03-01,120.50,Tarjeta de credito,1,Sin descripcion
+62,Egreso,2022-03-02,80.30,Efectivo,2,Sin descripcion
+63,Ingreso,2022-03-03,150.00,Tarjeta de debito,3,Sin descripcion
+64,Egreso,2022-03-04,60.00,En linea,4,Sin descripcion
+65,Ingreso,2022-03-05,200.00,Tarjeta de credito,5,Sin descripcion
+66,Egreso,2022-03-06,90.00,Efectivo,6,Sin descripcion
+67,Ingreso,2022-03-07,130.00,Tarjeta de debito,7,Sin descripcion
+68,Egreso,2022-03-08,70.50,En linea,8,Sin descripcion
+69,Ingreso,2022-03-09,180.75,Tarjeta de credito,9,Sin descripcion
+70,Egreso,2022-03-10,65.00,Efectivo,10,Sin descripcion
+72,Egreso,2022-03-12,80.30,Efectivo,2,Sin descripcion
+73,Ingreso,2022-03-13,150.00,Tarjeta de debito,3,Sin descripcion
+74,Egreso,2022-03-14,60.00,En linea,4,Sin descripcion
+75,Ingreso,2022-03-15,200.00,Tarjeta de credito,5,Sin descripcion
+76,Egreso,2022-03-16,90.00,Efectivo,6,Sin descripcion
+77,Ingreso,2022-03-17,130.00,Tarjeta de debito,7,Sin descripcion
+78,Egreso,2022-03-18,70.50,En linea,8,Sin descripcion
+79,Ingreso,2022-03-19,180.75,Tarjeta de credito,9,Sin descripcion
+80,Egreso,2022-03-20,65.00,Efectivo,10,Sin descripcion
+81,Ingreso,2022-03-21,120.50,Tarjeta de credito,1,Sin descripcion
+82,Egreso,2022-03-22,80.30,Efectivo,2,Sin descripcion
+84,Egreso,2022-03-24,60.00,En linea,4,Sin descripcion
+85,Ingreso,2022-03-25,200.00,Tarjeta de credito,5,Sin descripcion
+86,Egreso,2022-03-26,90.00,Efectivo,6,Sin descripcion
+87,Ingreso,2022-03-27,130.00,Tarjeta de debito,7,Sin descripcion
+88,Egreso,2022-03-28,70.50,En linea,8,Sin descripcion
+89,Ingreso,2022-03-29,180.75,Tarjeta de credito,9,Sin descripcion
+91,Ingreso,2022-04-01,120.50,Tarjeta de credito,1,Sin descripcion
+92,Egreso,2022-04-02,80.30,Efectivo,2,Sin descripcion
+93,Ingreso,2022-04-03,150.00,Tarjeta de debito,3,Sin descripcion
+94,Egreso,2022-04-04,60.00,En linea,4,Sin descripcion
+95,Ingreso,2022-04-05,200.00,Tarjeta de credito,5,Sin descripcion
+96,Egreso,2022-04-06,90.00,Efectivo,6,Sin descripcion
+97,Ingreso,2022-04-07,130.00,Tarjeta de debito,7,Sin descripcion
+98,Egreso,2022-04-08,70.50,En linea,8,Sin descripcion
+99,Ingreso,2022-04-09,180.75,Tarjeta de credito,9,Sin descripcion
+100,Egreso,2022-04-10,65.00,Efectivo,10,Sin descripcion

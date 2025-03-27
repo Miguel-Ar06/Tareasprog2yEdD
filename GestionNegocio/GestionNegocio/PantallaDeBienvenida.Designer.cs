@@ -33,12 +33,12 @@ namespace GestionNegocio
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(PantallaDeBienvenida));
             textoBienvenida = new Label();
             imageList1 = new ImageList(components);
-            subText1 = new Label();
+            subTextoBienvenida = new Label();
             nombreNegocio = new TextBox();
             selectorColor = new ComboBox();
             botonBienvenida = new Button();
             iconoNegocioMaterial = new PictureBox();
-            label1 = new Label();
+            textoVersion = new Label();
             ((System.ComponentModel.ISupportInitialize)iconoNegocioMaterial).BeginInit();
             SuspendLayout();
             // 
@@ -63,17 +63,17 @@ namespace GestionNegocio
             imageList1.TransparentColor = Color.Transparent;
             imageList1.Images.SetKeyName(0, "store_90dp_434343_FILL0_wght400_GRAD0_opsz48.png");
             // 
-            // subText1
+            // subTextoBienvenida
             // 
-            subText1.Anchor = AnchorStyles.Top;
-            subText1.AutoSize = true;
-            subText1.Font = new Font("Segoe UI Semibold", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            subText1.ForeColor = Color.FromArgb(64, 64, 64);
-            subText1.Location = new Point(263, 250);
-            subText1.Name = "subText1";
-            subText1.Size = new Size(627, 31);
-            subText1.TabIndex = 1;
-            subText1.Text = "Configuremos tu negocio! (Podras cambiar esto mas tarde)";
+            subTextoBienvenida.Anchor = AnchorStyles.Top;
+            subTextoBienvenida.AutoSize = true;
+            subTextoBienvenida.Font = new Font("Segoe UI Semibold", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            subTextoBienvenida.ForeColor = Color.FromArgb(64, 64, 64);
+            subTextoBienvenida.Location = new Point(263, 250);
+            subTextoBienvenida.Name = "subTextoBienvenida";
+            subTextoBienvenida.Size = new Size(627, 31);
+            subTextoBienvenida.TabIndex = 1;
+            subTextoBienvenida.Text = "Configuremos tu negocio! (Podras cambiar esto mas tarde)";
             // 
             // nombreNegocio
             // 
@@ -122,27 +122,27 @@ namespace GestionNegocio
             iconoNegocioMaterial.TabIndex = 5;
             iconoNegocioMaterial.TabStop = false;
             // 
-            // label1
+            // textoVersion
             // 
-            label1.Anchor = AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            label1.AutoSize = true;
-            label1.Location = new Point(24, 675);
-            label1.Name = "label1";
-            label1.Size = new Size(225, 20);
-            label1.TabIndex = 6;
-            label1.Text = "Ver. Beta 0.0.2. Miguel Arismendi";
+            textoVersion.Anchor = AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            textoVersion.AutoSize = true;
+            textoVersion.Location = new Point(24, 675);
+            textoVersion.Name = "textoVersion";
+            textoVersion.Size = new Size(225, 20);
+            textoVersion.TabIndex = 6;
+            textoVersion.Text = "Ver. Beta 0.0.2. Miguel Arismendi";
             // 
             // PantallaDeBienvenida
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1137, 719);
-            Controls.Add(label1);
+            Controls.Add(textoVersion);
             Controls.Add(iconoNegocioMaterial);
             Controls.Add(botonBienvenida);
             Controls.Add(selectorColor);
             Controls.Add(nombreNegocio);
-            Controls.Add(subText1);
+            Controls.Add(subTextoBienvenida);
             Controls.Add(textoBienvenida);
             Name = "PantallaDeBienvenida";
             Text = "Form1";
@@ -154,7 +154,7 @@ namespace GestionNegocio
         #endregion
 
         private Label textoBienvenida;
-        private Label subText1;
+        private Label subTextoBienvenida;
         private TextBox nombreNegocio;
         private ComboBox selectorColor;
         private Button botonBienvenida;
@@ -192,6 +192,6 @@ namespace GestionNegocio
             return nombreNegocio.Text;
         }
 
-        private Label label1;
+        private Label textoVersion;
     }
 }

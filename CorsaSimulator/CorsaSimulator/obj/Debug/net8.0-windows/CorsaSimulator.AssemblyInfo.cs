@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CorsaSimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+370eb3f42460c5fca3244b5348a00f841b51f1ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c6cc1280bf795781a6f0c3675c0e3fb4c8801f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CorsaSimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CorsaSimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

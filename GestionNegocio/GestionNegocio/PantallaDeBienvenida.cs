@@ -7,7 +7,8 @@ namespace GestionNegocio
     {
         private Negocio negocio;
 
-        // paleta de colores del programa y diccionario de temas
+        #region paleta de colores del programa y diccionario de temas
+
         public PaletaDeColor coloresPrograma;
         private Dictionary<string, PaletaDeColor> temas = new Dictionary<string, PaletaDeColor>();
 
@@ -48,6 +49,10 @@ namespace GestionNegocio
             Console.WriteLine("Paleta de color cambiada a " + coloresPrograma.nombre);
         }
 
+        #endregion
+
+
+        #region eventos
         private void botonBienvenida_Click(object sender, EventArgs e)
         {
             Console.WriteLine("Boton bienvenida clickeado");
@@ -75,5 +80,7 @@ namespace GestionNegocio
                 Console.WriteLine("Ventana de bienvenida cerrada");
             }
         }
+
+        #endregion
     }
 }

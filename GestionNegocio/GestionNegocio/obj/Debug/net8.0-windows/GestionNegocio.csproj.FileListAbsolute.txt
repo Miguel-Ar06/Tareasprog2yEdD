@@ -17,3 +17,5 @@ C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\GestionNegocio\Ges
 C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\GestionNegocio\GestionNegocio\obj\Debug\net8.0-windows\GestionNegocio.genruntimeconfig.cache
 C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\GestionNegocio\GestionNegocio\obj\Debug\net8.0-windows\ref\GestionNegocio.dll
 C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\GestionNegocio\GestionNegocio\obj\Debug\net8.0-windows\GestionNegocio.MenuPrincipal.resources
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\GestionNegocio\GestionNegocio\bin\Debug\net8.0-windows\Resources\data\clientes.csv
+C:\Users\nombr\OneDrive\Documentos\code\tarea\Tareasprog2yEdD\GestionNegocio\GestionNegocio\bin\Debug\net8.0-windows\Resources\data\movimientos.csv

@@ -14,13 +14,13 @@ namespace GestionNegocio.MainClasses
         public int edad { get; set; }
         public string residencia { get; set; }
 
-        Cliente(int _cedula, string _nombre, string _correo, int _edad, string _pais)
+        public Cliente(int _cedula, string _nombre, string _correo, int _edad, string _residencia)
         {
             this.cedula = _cedula;
             this.nombre = _nombre;
             this.correo = _correo;
             this.edad = _edad;
-            this.residencia = _pais;
+            this.residencia = _residencia;
         }
     }
 }
